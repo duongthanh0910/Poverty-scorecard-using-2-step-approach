@@ -2,7 +2,7 @@
 # 23.02.12
 
 
-1.1 #Fundamental setting up
+1.1 #Fundamental set up
 ### install necessary packages
 
 install.packages("scorecard")
